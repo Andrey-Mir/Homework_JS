@@ -1,2 +1,2 @@
 
-ttps://andrey-mir.github.io/Homework_JS/
+https://andrey-mir.github.io/Homework_JS/
