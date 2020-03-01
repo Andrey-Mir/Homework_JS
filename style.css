@@ -6,10 +6,7 @@ background-color: goldenrod;
 justify-content: space-around;
 }
 .new_class { 
-    background-image: url(/img/image.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-
+    background-color: greenyellow;
 }
 
 
